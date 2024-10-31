@@ -1,1 +1,1 @@
-# gitops-sample-wa
+# Sample Github Actions for WebAPP
